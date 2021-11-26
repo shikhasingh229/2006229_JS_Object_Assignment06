@@ -30,10 +30,6 @@ function print(person)
     console.log("Last name is "+person.lastName);
     console.log("Office Address is "+person.officeAddress);
 }
-
-console.log(Person1);
-console.log(Person2);
-console.log(Person3);
 print(Person1);
 print(Person2);
 print(Person3);
